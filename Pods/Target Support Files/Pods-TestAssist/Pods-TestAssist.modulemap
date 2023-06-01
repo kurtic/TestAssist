@@ -1,0 +1,6 @@
+framework module Pods_TestAssist {
+  umbrella header "Pods-TestAssist-umbrella.h"
+
+  export *
+  module * { export * }
+}
